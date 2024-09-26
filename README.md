@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bunty</h1>
 <h3 align="center">A Data Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14356/screenshots/1215165/media/ba584d32cce82a022c48cd053c26bd62.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/14356/screenshots/1215165/media/ba584d32cce82a022c48cd053c26bd62.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunty1305&label=Profile%20views&color=0e75b6&style=flat" alt="bunty1305" /> </p>
 
